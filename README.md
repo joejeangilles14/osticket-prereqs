@@ -96,3 +96,34 @@ Launch Control Panel and navigate to click "uninstall a program" under Programs
 <p>
 Check the "Internet Information Services" box, click the "+" next to the IIS folder to drop down to World Wide Services. Expand WWS to the Application Development Features and expand folder, check CGI box and click OK 
 </p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/8296ca4c-553c-4436-b151-c9498430987f" />
+</p>
+<p>
+After completing changes and closing the window, refresh the loopback address of 127.0.0.1 and see that IIS has been installed successfully.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/cd105dd7-5c4c-4724-a1a7-50392bdaba37" />
+<img src="https://github.com/user-attachments/assets/abca6951-b8b4-4b08-9e9f-6b4bda4bb4ec" />
+</p>
+<p>
+Go to the extracted osTicket installation files and launch the PHP Manager installation. Click next, select "I agree" to Licensing Agreement, then click next to install
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/63d1ae97-b2e7-4f31-a007-862686a65349" />
+<img src="https://github.com/user-attachments/assets/e4c1a348-5760-41fa-950c-28c6436c2c45" />
+</p>
+<p>
+Navigate to the C drive and right-click in Windows folder screen to create a new folder. Rename the folder to PHP.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/0f0d30bc-b350-41ef-85bf-f35c9ddb2cd0" />
+</p>
+<p>
+Back within the osTicket Installation files on the desktop, right-click the php file and click Extract All.
+</p>
+
