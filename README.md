@@ -104,7 +104,7 @@ After completing changes and closing the window, refresh the loopback address of
 <img src="https://github.com/user-attachments/assets/abca6951-b8b4-4b08-9e9f-6b4bda4bb4ec" />
 </p>
 <p>
-Go to the extracted osTicket installation files and launch the PHP Manager installation. Click next, select "I agree" to Licensing Agreement, then click next to install
+Go to the extracted osTicket installation files and launch the PHP Manager installation. Click Next, select "I agree" to Licensing Agreement, then click Next to install
 </p>
 
 <p>
@@ -122,3 +122,51 @@ Navigate to the C drive and right-click in Windows folder screen to create a new
 Back within the osTicket Installation files on the desktop, right-click the php file and click Extract All.
 </p>
 
+<p>
+<img src="https://github.com/user-attachments/assets/e5635f9b-cd0a-408d-9aee-f2ae1e42d124" />
+</p>
+<p>
+Browse to the PHP folder within the Windows folder on the C drive and extract the files to the PHP folder.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/be11db9e-1a27-4c09-b8b8-e5935849f7da" />
+</p>
+<p>
+Go to the osticket installtion folder and launch the mysql installer. In order, click Next, click "accept terms" and click Next, choose Typical installation and install.  
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/5c11221e-5fbb-4d54-bc5c-02986e7430c8" />
+</p>
+</p>
+After the installation is complete be sure "Launch the MySQL Instance Configuration Wizard" is checked and click Finish.
+<p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/e0efc8e2-fdb9-4a90-8b94-b19860a45be6" />
+</p>
+<p>
+Click Next and select Standard Configuration 
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/dcfc2540-a04d-4523-9d27-e2941f4794a3" />
+</p>
+<p>
+Leave this page as is and click Next. 
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/db41c205-107d-4627-b433-e4d8c903852a" />
+</p>
+<p>
+For the sake of this lab, I created my username and password as "root" (all lowercase) but I recommend against this in a live workplace environment. Click Next then Execute
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/e49618c9-76e3-4be1-a2e8-9777bf29e93e" />
+</p>
+<p>
+After all configuratons are done processing, click Finish.
+</p>
