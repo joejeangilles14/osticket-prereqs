@@ -170,3 +170,17 @@ For the sake of this lab, I created my username and password as "root" (all lowe
 <p>
 After all configuratons are done processing, click Finish.
 </p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/371be446-299e-43b8-88bb-c8a628d66f1d" />
+</p>
+<p>
+Type IIS in the search bar and launch IIS.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/371be446-299e-43b8-88bb-c8a628d66f1d" />
+</p>
+<p>
+
+</p>
