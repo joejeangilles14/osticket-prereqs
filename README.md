@@ -179,8 +179,30 @@ Type IIS in the search bar and launch IIS.
 </p>
 
 <p>
-<img src="https://github.com/user-attachments/assets/371be446-299e-43b8-88bb-c8a628d66f1d" />
+<img src="https://github.com/user-attachments/assets/598a4975-4dc0-4edc-9845-06c4118bf94b" />
 </p>
 <p>
+Navigate to the PHP Manger and launch the application
+</p>
 
+<p>
+<img src="https://github.com/user-attachments/assets/ed2424d9-1439-4317-acc2-7cfef3c1b9f6" />
+</p>
+<p>
+Here, a path for the php executable is being provided
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/af085460-ee82-498b-a4a9-c869d84d847a" />
+<img src="https://github.com/user-attachments/assets/e0e8d796-0255-4e51-b3fc-a67b09a216bc" />
+</p>
+<p>
+Browse to the Windows C drive and open the PHP folder. Then, open the php-cgi application.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/7b326eae-ce7d-405e-9a48-88749fd55d57" />
+</p>
+<p>
+Click OK
 </p>
