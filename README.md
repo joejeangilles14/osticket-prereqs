@@ -172,37 +172,83 @@ After all configuratons are done processing, click Finish.
 </p>
 
 <p>
-<img src="https://github.com/user-attachments/assets/371be446-299e-43b8-88bb-c8a628d66f1d" />
+<img src="https://github.com/user-attachments/assets/02ae61dd-75d3-4a0a-b2b3-b6f5b24e2ea3" />
 </p>
 <p>
 Type IIS in the search bar and launch IIS.
 </p>
 
 <p>
-<img src="https://github.com/user-attachments/assets/598a4975-4dc0-4edc-9845-06c4118bf94b" />
+<img src="https://github.com/user-attachments/assets/02f2a2ce-23c3-4e31-af65-7477658371cd" />
 </p>
 <p>
 Navigate to the PHP Manger and launch the application
 </p>
 
 <p>
-<img src="https://github.com/user-attachments/assets/ed2424d9-1439-4317-acc2-7cfef3c1b9f6" />
+<img src="https://github.com/user-attachments/assets/425e018d-896e-4c44-81ef-10ff2562d791" />
+<img src="https://github.com/user-attachments/assets/58612f39-eae9-421c-8147-71ea53ad5648" />
 </p>
 <p>
-Here, a path for the php executable is being provided
+Here, a path for the php executable is being provided by registering a new PHP
 </p>
 
 <p>
-<img src="https://github.com/user-attachments/assets/af085460-ee82-498b-a4a9-c869d84d847a" />
-<img src="https://github.com/user-attachments/assets/e0e8d796-0255-4e51-b3fc-a67b09a216bc" />
+<img src="https://github.com/user-attachments/assets/a32b0ee1-b169-489b-b766-e89548e78402" />
+<img src="https://github.com/user-attachments/assets/28d94fa5-1293-4b26-83fb-0de06a4a8586" />
 </p>
 <p>
 Browse to the Windows C drive and open the PHP folder. Then, open the php-cgi application.
 </p>
 
 <p>
-<img src="https://github.com/user-attachments/assets/7b326eae-ce7d-405e-9a48-88749fd55d57" />
+<img src="https://github.com/user-attachments/assets/f6b392c9-b451-4282-8edc-57a7b1cec441" />
 </p>
 <p>
 Click OK
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/def26adf-949b-4be4-870b-60cd8ae2494a" />
+</p>
+<p>
+Within IIS, right click and stop the connection.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/8a9c390f-f0df-4f38-9e69-54eab736f50a" />
+</p>
+<p>
+Right click again and start the connection.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/aabe906f-f32b-4386-a617-95d3ef7edf35" />
+</p>
+<p>
+Go to the osTicket installation files, right click on the osTicket-v1.15.8 file and click Extract All.
+</p>
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/01751dd8-5dac-43cc-8aaf-e0648b570aaa" />
+<img src="https://github.com/user-attachments/assets/597d9236-a821-4eb6-9808-19244c47e338" />
+</p>
+<p>
+Extract files within the OSTicket Installation folder and copy the "upload" folder into "c:\inet\pub\wwwroot". Within "c:\inet\pub\wwwroot", rename "upload" to "osTicket"
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/2d59bfea-c30f-4935-b68d-318e3d9e2c57" />
+<img src="https://github.com/user-attachments/assets/e301a88c-c1e5-4896-90a2-46406c683f41" />
+</p>
+<p>
+Reload IIS by right clicking and stopping the service. Then, start the service back up.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/2d59bfea-c30f-4935-b68d-318e3d9e2c57" />
+</p>
+<p>
+
 </p>
