@@ -247,7 +247,14 @@ Reload IIS by right clicking and stopping the service. Then, start the service b
 </p>
 
 <p>
-<img src="https://github.com/user-attachments/assets/2d59bfea-c30f-4935-b68d-318e3d9e2c57" />
+<img src="https://github.com/user-attachments/assets/990a0482-4048-4fdd-aa3a-cba979b5af87" />
+</p>
+<p>
+Within IIS, click the drop arrow on Application Pools, Default Site and click on osTicket. On the right hand side, click "Browse *.80"
+</p>
+
+<p>
+
 </p>
 <p>
 
