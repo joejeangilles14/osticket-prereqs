@@ -231,7 +231,7 @@ Go to the osTicket installation files, right click on the osTicket-v1.15.8 file 
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/01751dd8-5dac-43cc-8aaf-e0648b570aaa" />
+<img src="https://github.com/user-attachments/assets/b753abdc-c8ef-48aa-9574-d791dbffc906" />
 <img src="https://github.com/user-attachments/assets/597d9236-a821-4eb6-9808-19244c47e338" />
 </p>
 <p>
@@ -252,6 +252,52 @@ Reload IIS by right clicking and stopping the service. Then, start the service b
 <p>
 Within IIS, click the drop arrow on Application Pools, Default Site and click on osTicket. On the right hand side, click "Browse *.80"
 </p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/781c0ae7-75b0-4486-a944-69dba23368b8" />
+</p>
+<p>
+osTicket installer has been launched and now certain features can be enabled.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/c60dae43-b46a-49b3-9ce0-7812795322ee" />
+<img src="https://github.com/user-attachments/assets/a4c56b5b-d303-4515-85ca-195f6bff092b" />
+</p>
+<p>
+Go back to IIS and double-click on PHP Manager. Then click on "Enable or disable an extension".
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/7c65f3d7-06bf-4802-8cee-a90186f990b0" />
+<img src="https://github.com/user-attachments/assets/7bd83457-2ac0-4002-b516-f16f02640b57" />
+<img src="https://github.com/user-attachments/assets/3b958718-9b19-428c-b0f6-4576c4c2fca2" />
+</p>
+<p>
+Right click and enable php_imap.dll then repeat the same for php_intl.dll and php_opcache.dll
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/9bcd92a7-b900-4b4f-8ef7-768b86b80913" />
+</p>
+<p>
+Reload browser and features are now enabled!
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/9a338de9-4cc1-4631-87d7-745c4c0f5730" />
+</p>
+<p>
+Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php, rename it to ost-config.php, right click and go to Properties
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/850e42cd-b410-41a2-80ac-a7a971bb1065" />
+</p>
+<p>
+Go to the Security tab and click on Advanced.
+</p>
+
 
 <p>
 
