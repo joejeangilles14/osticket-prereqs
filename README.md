@@ -300,8 +300,132 @@ Go to the Security tab and click on Advanced.
 
 
 <p>
-
+<img src="https://github.com/user-attachments/assets/f8d2b65a-3f47-4975-a6b0-a1b85314af02" />
 </p>
 <p>
+Click on "Disable inheritence" and "Remove all inherited permissions from this object"
+</p>
 
+<p>
+<img src="https://github.com/user-attachments/assets/d6ee95bc-792e-4a77-b1bd-434c49859db9" />
+<img src="https://github.com/user-attachments/assets/5335e465-b19d-43e4-bc18-1725f9fea608" />
+<img src="https://github.com/user-attachments/assets/50928559-954d-4dad-8c7e-2476774772b9" />
+</p>
+<p>
+Click Add, Select a principle, then type Everyone in the box, click "Check names" and click OK
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/c73b029b-63e8-40c6-9d99-37c094ec10b0" />
+</p>
+<p>
+Check Full control to allow all permissions and click OK
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/3450ed16-4435-4f2c-92c4-546c1c0a04e8" />
+</p>
+<p>
+Click Apply and then OK
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/e7cba3aa-d6f7-4f23-9038-1057e1bf2701" />
+</p>
+<p>
+On osTicket browser, click Continue then fill out basic information for the installer.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/4bfc25da-664a-4a4b-8ad6-bd89fa393485" />
+</p>
+<p>
+Navigate to osTicket installation folder and launch HeidiSQL
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/c262725f-2d21-4dab-9371-11786121d759" />
+</p>
+<p>
+After reviewing the terms, accept terms and click Next
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/79cd18ac-e95b-41b5-bb2e-a877b9fe4a65" />
+<img src="https://github.com/user-attachments/assets/3a1737c8-7456-426e-ad7c-e70617087eb0" />
+<img src="https://github.com/user-attachments/assets/a5eaf7c6-aa73-4789-9eda-2472ac3e019c" />
+</p>
+<p>
+Continue to click Next until you see a list of checked boxes, make sure all are checked, click Next
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/b92f60e2-a8e8-4205-8f98-3a7a7597afb3" />
+</p>
+<p>
+Click Install
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/5777f5e9-a057-4385-b810-2177cbeef505" />
+</p>
+<p>
+Make sure "Launch HeidiSQL" is checked and click Finish
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/bf9bb3b3-e048-47b0-8715-a181ccb1f1c6" />
+<img src="https://github.com/user-attachments/assets/bd38526b-26ea-4e33-a8e7-94325d33ce1d" />
+</p>
+<p>
+Once Heidi is launched, click New. The username and password will be root, then click Open
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/7d719000-2292-4422-91ca-117df929abb0" />
+</p>
+<p>
+Right click Unnamed, hover over Create new and click Database to create one
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/a0f4bf9a-5635-4422-8145-dff1c5b1d42d" />
+</p>
+<p>
+Name the database "osTicket"
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/4cac537c-c282-4f1d-a7d4-7d9d6189f9a5" />
+</p>
+<p>
+The information used to create our database will be used for the configuration settings for the osTicket installer.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/57ad948d-fbdc-45b1-95d2-a228297b0a21" />
+</p>
+<p>
+osTicket has been successfully installed!
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/3aff10da-902e-48ec-8f94-3809df1e798e" />
+</p>
+<p>
+Refresh the osTicket database.
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/663e6469-1494-4493-b8a8-dcf19ebc7ea7" />
+</p>
+<p>
+On the internet browser, navigate to http://localhost/osTicket/scp/login.php and use login credentials to log into osTicket
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/ec024326-78c2-43ef-a277-3ece9c13ec4d" />
+</p>
+<p>
+Congratulations! osTicket login has been successful!
 </p>
