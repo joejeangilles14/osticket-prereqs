@@ -35,7 +35,6 @@ Start by creating a virtual machine using Microsoft Azure.
 
 <p>
 <img src="https://github.com/user-attachments/assets/453a8391-73ac-4bd9-92b3-734f5498693e" />
-
 </p>
 <p>
 Rename resource group to osticket, virtual machine renamed to myVm, and set region to East US (happens to be the only one available for the East coast).
